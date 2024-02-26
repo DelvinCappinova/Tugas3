@@ -6,4 +6,4 @@ try:
         print ("Bilangan Positif")
     elif bilangan <0 :
         print ("Bilangan Negatif")
-except: print ("Salah Format")
+except: print ("Salah Format Bro")
